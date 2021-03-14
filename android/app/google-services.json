@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84463888545",
+    "project_id": "taxiapp-ad61f",
+    "storage_bucket": "taxiapp-ad61f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84463888545:android:78dd782c30207d946228e0",
+        "android_client_info": {
+          "package_name": "com.prathamesh.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84463888545-stodmlsd7o815isdi1tcjvjv9q66q3d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBndpUYpWlRzFSF8o7djs1gpC22dD4kbjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84463888545-stodmlsd7o815isdi1tcjvjv9q66q3d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
